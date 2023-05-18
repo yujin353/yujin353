@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌱 Skill
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/apachekafka-#231F20?style=flat&logo=apachekafka&logoColor=white"/>
 
 
 
