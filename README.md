@@ -30,18 +30,10 @@ Here are some ideas to get you started:
 
 
 
-🐾 Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin353&show_icons=true&theme=transparent)
 
-
-
-✏️ Most Used Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin353&layout=compact)](https://github.com/yujin353/github-readme-stats)
 
-
-
-📖 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yujin353)](https://solved.ac/ujin99)<br/>
