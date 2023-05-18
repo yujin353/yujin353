@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 🤔 Studying
 
 🐾 Github stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin353&show_icons=true&theme=radical)
 
 📖 Problem Solving
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yujin353)](https://solved.ac/ujin99)<br/>
