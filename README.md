@@ -12,7 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🙂 Introduction
+프론트와 백엔드 모두 관심있는 신입개발자입니다
 
+🌱 Skill
+
+
+🤔 Studying
+
+🐾 Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin353&show_icons=true&theme=radical)
 
+📖 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yujin353)](https://solved.ac/ujin99)<br/>
