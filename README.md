@@ -15,18 +15,32 @@ Here are some ideas to get you started:
 
 🙂 Introduction
 
-프론트와 백엔드 모두 관심있는 신입개발자입니다
+프론트와 백엔드 모두 관심있는 신입개발자입니다.
+
+
 
 🌱 Skill
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 
+
+
 🤔 Studying
+
+
 
 🐾 Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin353&show_icons=true&theme=radical)
+
+
+
+✏️ Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin353&layout=compact)](https://github.com/yujin353/github-readme-stats)
+
+
 
 📖 Problem Solving
 
