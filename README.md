@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 📖 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yujin353)](https://solved.ac/ujin99)<br/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ujin99&show_icons=true&count_private=true&hide_border=true" style="height: 150px" /></td>
 
 
 🌱 Skill
