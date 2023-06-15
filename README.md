@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙂 Introduction
-
-프론트와 백엔드 모두 관심있는 신입개발자입니다.
-
+<!-- 🙂 Introduction -->
 
 
 🐾 Github stats
